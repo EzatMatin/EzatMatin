@@ -2,5 +2,5 @@
 
 Hello!
 
-I am learning JS 
+Work From home
 
